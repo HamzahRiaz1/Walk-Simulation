@@ -9,7 +9,7 @@ Rules:
 
 Things to take into consideration:
 
-1. Cant go below step 0
+1. Can not go below step 0
 2. 0.1% chance of falling down the stairs - If this happens, then you have to start again
 3. You made a bet with your friend that you will reach step 60
 
